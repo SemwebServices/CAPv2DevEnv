@@ -1,0 +1,3 @@
+[submodule "CAPServicePlatform"]
+	path = CAPServicePlatform
+	url = git@github.com:SemwebServices/CAPServicePlatform.git
